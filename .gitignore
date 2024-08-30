@@ -1,0 +1,13 @@
+.idea
+.DS*
+.git
+.vscode
+.DS_Store
+agent/release/*
+!agent/release/.gitkeep
+backend/release/*
+!backend/release/.gitkeep
+engine/release/*
+!engine/release/config.example.yaml
+frontend/node_modules
+frontend/yarn.lock
