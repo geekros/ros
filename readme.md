@@ -22,12 +22,10 @@ ROS             humble
 
 ## Install
 
+> Batch installation of all feature packs.
+
 ```shell
-pip install geekros
-# or
-pip3 install geekros
-# or
-python3 -m pip install geekros
+sudo apt install geekros-*
 ```
 
 ## Build
