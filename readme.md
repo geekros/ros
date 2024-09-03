@@ -1,6 +1,6 @@
 # ROS Node Package
 
-⚡ ROS Node Package For GEEKROS ⚡
+⚡ ROS Node Package For Real-Time Robot-Human Interaction Applications ⚡
 
 ## License
 
